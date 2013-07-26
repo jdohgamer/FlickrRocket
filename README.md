@@ -1,1 +1,1 @@
-This is a project I worked on for a team. I ran into issues when taking the JSON objects I created from the Flickr URL and using BitMapFactor.decodestream to download them and set them as my imageView on the Main.Java.
+This is a project I worked on for a team. I ran into issues when taking the JSON objects I created from the Flickr URL and using BitmapFactory.decodestream to download them and set them as my imageView on the Main.Java.
